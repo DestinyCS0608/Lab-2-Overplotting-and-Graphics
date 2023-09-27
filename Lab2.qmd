@@ -41,8 +41,7 @@ ne_county_health_2021 <- county_health_2021 |>
 
 ```{r}
 # Write your code below
-View(county_health_2021)
-View(ne_county_health_2021)
+glimpse(ne_county_health_2021)
 
 ```
 
